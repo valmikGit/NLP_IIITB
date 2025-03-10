@@ -3,3 +3,5 @@ train_data.csv
 validation_data.csv
 nlpenv
 assign-1_NLP
+*.csv
+*.xlsx
